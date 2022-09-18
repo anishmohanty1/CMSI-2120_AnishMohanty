@@ -1,0 +1,49 @@
+
+Homework01 Evaluation
+======================
+For homework01, the focus is to make sure that your GitHub repository is set
+up and that your Java environment is installed and working properly.  The
+actual programming part of the assignment is trivial, just a simple program
+to display "Hello World!" on the terminal window.
+
+Since this is also the in-class assignment for week01, you should have the
+code in at least one or the other of the two places.  I will locate it and
+make sure it appears in both locations if it is only in one at no cost.
+
+The other part of this is to make sure you have the individual directory
+structure [folder hierarchy] set up in your repo.  If this is not correctly
+done, I will fix it for you at the cost of one point.
+
+scores:
+=============================
+Folder structure for classwork      4 out of 4 pts.
+Folder structure for homework       3 out of 4 pts.
+'Greeter.java' program committed    0 out of 4 pts.
+'Greeter.java' program compiles     0 out of 4 pts.
+'Greeter.java' program runs         0 out of 4 pts.
+
+Total possible score: 20 out of 20 for 100%
+
+Your score: 7 out of 20 which is 35.0% which is an F
+
+=============================
+Comments:
+
+I don't know what happened here, Anish, but if there is nothing in your repo
+there's not much I can do.  Not an auspicious beginning, to say the least.
+
+Perhaps I can be of help to you to get you started, or if you would like to
+consult with me I'm happy to meet with you during office hours.  You can also
+visit the Keck Lab in Doolan hall, room 112 where there are many TA's and
+other students who can help you if you don't understand anything.  Please do
+not hesitate to contact me if I can help you in ANY way, and I will do my
+best to assist you!
+
+I put in a copy of my solution to homework01, along with my solution to the
+'PiSolver.java' program which was optional but is informative to read.
+
+Your classwork folder structure is set correctly, just not with all of the
+folders you'll need.  That's OK, though, full credit for that.  I had to
+create your 'homework' folder structure, though.
+
+On to homework02!
